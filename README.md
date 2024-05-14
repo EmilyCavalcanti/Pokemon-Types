@@ -1,6 +1,6 @@
 # Pokemon-Types
 
-#Trabalhando com condicionais no Typescript
+# Trabalhando com condicionais no Typescript
 
 const pokemons = [ { name: "pikachu", types: ["eletric"] }, { name: "gabite", types: ["dragon", "ground"] }, ] Retorno:
 
